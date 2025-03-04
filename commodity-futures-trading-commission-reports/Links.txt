@@ -1,0 +1,3 @@
+Datasets:
+https://www.kaggle.com/datasets/debashish311601/commodity-prices?select=commodity_futures.csv
+NASDAQ Data Link: QDL-FON dataset
