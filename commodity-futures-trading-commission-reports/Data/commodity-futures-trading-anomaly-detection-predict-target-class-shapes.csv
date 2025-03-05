@@ -1,0 +1,6 @@
+,label,shape
+0,X shape,"(361, 10, 24)"
+1,Y shape,"(361,)"
+2,Train shape,"(252, 10, 24)"
+3,Validation shape,"(54, 10, 24)"
+4,Test shape,"(55, 10, 24)"

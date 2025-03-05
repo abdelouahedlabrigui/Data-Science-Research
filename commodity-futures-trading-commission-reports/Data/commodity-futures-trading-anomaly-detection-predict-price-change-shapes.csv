@@ -1,0 +1,5 @@
+,label,shape
+0,X shape,"(341, 30, 26)"
+1,Y shape,"(341,)"
+2,Train shape,"(272, 30, 25)"
+3,Test shape,"(69, 30, 25)"

@@ -1,0 +1,5 @@
+,Label,Shape
+0,X Train Latent,"(296, 8)"
+1,X Test Latent,"(75, 8)"
+2,X Train,"(296, 28)"
+3,X Test,"(75, 28)"
